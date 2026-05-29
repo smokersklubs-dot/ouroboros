@@ -9,6 +9,10 @@
 .vscode/
 .idea/
 
+# Local install artifacts
+.venv/
+run.sh
+
 # Python
 __pycache__/
 *.pyc
